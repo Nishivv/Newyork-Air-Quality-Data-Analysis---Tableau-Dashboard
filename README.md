@@ -2,9 +2,6 @@
 
 This project visualizes and analyzes air quality trends in New York using Tableau. It highlights the correlation between solar radiation and temperature, enabling interactive exploration through dynamic filters and binning.
 
-## 📊 Dashboard Overview
-
-![Dashboard Screenshot](d1a14818-43b2-4ea7-9387-fe11cf894f5a.png)
 
 ### Key Features:
 - **Correlation Plot:** Interactive scatter plot showing the relationship between Solar Radiation (`Solar.R`) and Temperature (`Temp`), color-coded by Month.
