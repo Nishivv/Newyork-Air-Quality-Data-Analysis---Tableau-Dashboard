@@ -41,9 +41,8 @@ This project visualizes and analyzes air quality trends in New York using Tablea
 
 ## 📎 Files in Repo
 
-- `NY_air_quality_data.csv` – Cleaned dataset
-- `dashboard_screenshot.png` – Visual representation of the Tableau dashboard
-- (Optional) `.twbx` or `.twb` – Tableau workbook (if not corrupted)
+- Visual representation of the Tableau dashboard
+- Tableau workbook
 
 
 ## 🔍 How to Use
